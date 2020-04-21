@@ -1,0 +1,9 @@
+diff a/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF b/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF	(rejected hunks)
+@@ -1,5 +1,5 @@
+ Manifest-Version: 1.0
+-Built-By: jinse
+-Build-Jdk: 1.8.0_231
++Built-By: mohar
++Build-Jdk: 1.8.0_202
+ Created-By: Maven Integration for Eclipse
+ 
